@@ -1,0 +1,8 @@
+{
+  "compilerOptions": { 
+    "outFile": "bundle.js"       
+},
+  "files": [
+    "src.ts"
+  ]
+}
